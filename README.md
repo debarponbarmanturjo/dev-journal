@@ -29,10 +29,11 @@ Daily logs are organized by month. Inside each folder, files are named by date:
 
 ## 📝 Daily Log Template
 Every daily entry follows this simple, effortless structure:
-1. 🎯 **Objective:** What was the target for the day?
-2. 🏛️ **Academic Courses & EE:** Takeaways from engineering classes and labs.
-3. 💻 **Computer Science:** Syntaxes, logic blocks, or web designs built.
-4. 🔮 **Next Step:** The immediate goal for tomorrow.
 
+*   🎯 **Today's Focus:** Main topics covered today.
+*   📚 **What I Studied:** Topic titles with optional nested descriptions.
+*   ✅ **Progress & Metrics:** Lectures finished, problem sets solved, and tasks completed.
+*   🚧 **Next Steps:** Current blockers and tomorrow's specific goal.
+*   ⏱️ **Total Time:** Tracked hours split between academic work and programming.
 ---
 *“Small, daily disciplines yield massive long-term compound interest.”*
